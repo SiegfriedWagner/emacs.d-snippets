@@ -1,0 +1,18 @@
+# -*- mode: snippet -*-
+#name : html5
+#key : html5
+#contributor : 
+# --
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="${1:UTF-8}">
+    <title>${2:Title}</title>
+    <link rel="stylesheet" type="text/css" href="${5:mystyle.css}">
+  </head>
+
+  <body>
+	$0
+  </body>
+
+</html> 

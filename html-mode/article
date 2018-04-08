@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <article>...</article>
+# key: article
+# --
+<article$1>
+$2
+</article>$0
